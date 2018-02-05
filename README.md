@@ -1,6 +1,8 @@
-# employeemanager
+# Simple Application With Vue.js 2 And firebase 2
 
 > simple employee
+
+Live Demo (https://jomahdi.github.io/#/)
 
 ## Build Setup
 
